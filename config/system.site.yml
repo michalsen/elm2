@@ -1,0 +1,14 @@
+uuid: 34b81c21-cae6-4849-82ae-c6872357b93c
+name: elm2
+mail: eric.michalsen@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
